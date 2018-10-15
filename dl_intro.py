@@ -52,7 +52,7 @@ train_labels, train_seqs = read_data(train_file)
 test_file = "./data/pwm_seq_200bp_test_set.txt"
 test_labels, test_seqs = read_data(test_file)
 
-# Gloabl Options
+# Global Options
 num_classes = 4
 
 # Training Options
